@@ -1,4 +1,4 @@
-
+﻿#贝叶斯实现邮件分类
 import os, re, jieba
 from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import accuracy_score
